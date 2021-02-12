@@ -1,0 +1,16 @@
+body {
+  background-color: #30638e;
+}
+
+#name {
+  font-family: 'Press Start 2P';
+}
+
+abbr {
+  text-decoration: underline;
+}
+
+.items-skill{
+  line-height: 30px;
+}
+
