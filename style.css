@@ -90,6 +90,7 @@ h1 {
   text-align: center;
   width: 50%;
   height: 85vh;
+  margin-top: 100px;
 }
 
 #right-div {
@@ -100,6 +101,7 @@ h1 {
   float: right;
   background-image: url("./img/me-portfolio.png");
   background-size: cover;
+  margin-top: 100px;
 }
 
 #left-div h3{
@@ -131,13 +133,18 @@ h1 {
 
 .sobre {
   height: 85vh;
-  width: 100%;
+  width: 99.9%;
   font-family: "Poppins", sans-serif;
   font-size: 23px;
   padding-top: 200px;
   font-weight: 300;
   display: inline-block;
   text-align: center;
+  border: solid white 1px;
+}
+
+.sobre h1 {
+  font-size: 90px;
 }
 
 .icone-hobbie {
@@ -183,6 +190,10 @@ h1 {
   font-family: "Poppis", sans-serif;
   font-size: 80px;
   text-decoration: none;
+}
+
+#redes-sociais a:hover {
+  color: #d04b38;
 }
 
 .linkedin {
