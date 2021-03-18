@@ -219,3 +219,13 @@ h1 {
   margin-top: 6rem;
 }
 
+::-webkit-scrollbar-track {
+  background-color: #F4F4F4;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  background: #F4F4F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #969494;
+}
